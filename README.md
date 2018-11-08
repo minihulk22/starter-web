@@ -16,6 +16,8 @@ This is a simple web project.
 
 ## How to contribute
 
+Fork this repo and then issue Pull Request for review.
+
 ### Copyright
 
 Git Training
